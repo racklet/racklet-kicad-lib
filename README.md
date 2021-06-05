@@ -1,6 +1,5 @@
-# base-repo-layout
-
-Template (base) repository file layout for Racklet projects.
+# racklet-kicad-lib
+Library of schematic symbols and footprints for components used in Racklet electronics.
 
 ## Contributing
 
