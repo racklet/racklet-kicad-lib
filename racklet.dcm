@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8602d981f9ac8149e58ad0de2290d8c0c46aa0de6680aab8a147b9d99703375f
-size 1136
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BD9E302EFJ-E2
+D 7.0V〜28V Input, 3A Integrated MOSFET Single Synchronous Buck DC/DC Converter
+F https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9e302efj-e.pdf
+$ENDCMP
+#
+$CMP MIC5504-3.3YM5-TR
+D 300 mA Single Output LDO in Small Packages
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MIC5501-02-03-04-300mA-Single-Output-LDO-in-Small-Packages-DS20006006B.pdf
+$ENDCMP
+#
+$CMP PAC1921
+D PAC1921-1-AIA-TR
+F https://ww1.microchip.com/downloads/en/DeviceDoc/PAC1921-Data-Sheet-DS20005293E.pdf
+$ENDCMP
+#
+$CMP TUSB2046BVFR
+D TUSB2046x 4-Port Hub for the Universal Serial Bus With Optional Serial EEPROM Interface
+F https://www.ti.com/lit/ds/symlink/tusb2046b.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1622924400261&ref_url=https%253A%252F%252Fwww.digikey.fi%252F
+$ENDCMP
+#
+$CMP TUSB2077APTR
+D 7-Port Hub for the Universal Serial Bus With Optional Serial EEPROM Interface
+F https://www.ti.com/lit/ds/symlink/tusb2077a.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1627013523157&ref_url=https%253A%252F%252Fwww.digikey.fi%252F
+$ENDCMP
+#
+#End Doc Library
